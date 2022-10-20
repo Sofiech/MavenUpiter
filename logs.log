@@ -1,0 +1,9 @@
+2022-09-20 21:15:45,046 INFO L.FirstTest [main] Драйвер поднят
+2022-09-20 21:15:45,427 ERROR L.FirstTest [main] Я есть ошибка
+2022-09-20 21:15:57,429 INFO L.FirstTest [main] Драйвер поднят
+2022-09-20 21:15:57,450 ERROR L.FirstTest [main] Я есть ошибка
+2022-09-23 21:24:09,479 INFO L.BestTest [main] Драйвер поднят
+2022-09-27 15:19:18,408 INFO L.FirstTest [main] Драйвер поднят
+2022-09-27 15:19:18,514 ERROR L.FirstTest [main] Я есть ошибка
+2022-09-27 15:19:27,134 INFO L.FirstTest [main] Драйвер поднят
+2022-09-27 15:19:27,147 ERROR L.FirstTest [main] Я есть ошибка
